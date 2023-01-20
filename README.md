@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.ie/search?q=mern+stack+image+upload+github&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiBuv7Nwtb8AhU873MBHRNGClQQ_AUoAXoECAEQAw&biw=1536&bih=714&dpr=1.25#imgrc=vWJIiDlzNUj40M)](https://kannanjk.io)
+[![MasterHead](https://static.platzi.com/media/blog/mern-stack-284eedb6-ee6b-4441-b181-5064a453a15a.png)](https://kannanjk.io)
 <h1 align="center">Hi 👋, I'm Jishnu</h1>
 <h3 align="center">A self taught MERN STACK developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
