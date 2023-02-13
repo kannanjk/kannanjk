@@ -1,4 +1,3 @@
-[![MasterHead](https://static.platzi.com/media/blog/mern-stack-284eedb6-ee6b-4441-b181-5064a453a15a.png)](https://kannanjk.io)
 <img width="1000" height ="auto" src ="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 <h1 align="center">Hi 👋, I'm Jishnu</h1>
 <h3 align="center">A self taught MERN STACK developer from India</h3>
